@@ -4,7 +4,7 @@ Student ID: 2210994752 <br>
 Unit: SIT315 - Programming Paradigms
 
 # Tasks Included
-<h1>Module 1:</h1>
+<h3>Module 1:</h1>
 <ul>
   <a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%201/Task1.1P"><li>Task1.1P</li></a>
 </ul>
