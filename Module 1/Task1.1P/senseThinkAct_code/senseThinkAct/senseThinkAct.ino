@@ -10,9 +10,7 @@
 #define pir_in 2
 
 // global variables
-int detected;
-int motionTime = 0;
-int prevTime = 0;
+bool detected;
 
 void setup()
 {
@@ -24,9 +22,7 @@ void setup()
 void loop()
 {
   // setting flag value based on sensor input
-  detected = digitalRead(2) ? 1 : 0;
- 
-  prevTime = millis();
+  detected = digitalRead(pir_in) ? 1 : 0;
   
   // switching on LED when motion is detected
   if(detected)
@@ -34,11 +30,8 @@ void loop()
     Serial.print("Motion Detected ");
     digitalWrite(led_out, 1);
     Serial.println("LED: ON");
-    motionTime = millis() - prevTime;
   }
-  
-  // turning off the LED when there has been no motion for more than 50 milliseconds 
-  if(!detected && motionTime < 50)
+  else
   {
     digitalWrite(led_out, 0);
     Serial.println("LED: OFF");
