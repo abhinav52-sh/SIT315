@@ -7,4 +7,5 @@ Unit: SIT315 - Programming Paradigms
 <h3>Module 1:</h1>
 <ul>
   <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%201/Task1.1P">Task1.1P</a></li>
+  <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%201/Task1.2P">Task1.2P</a></li>
 </ul>
