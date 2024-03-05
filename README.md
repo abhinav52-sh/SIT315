@@ -13,7 +13,8 @@ Unit: SIT315 - Programming Paradigms
 </ul>
 <h3>Module 2:</h1>
 <ul>
+  <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%202/M2S3P">M2S3P</a></li>
   <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%202/M2T1P">M2T1P</a></li>
   <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%202/M2T2C">M2T2C</a></li>
-  <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%202/M2S3P">M2S3P</a></li>
+  <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%202/M2T3D">M2T3D</a></li>
 </ul>
