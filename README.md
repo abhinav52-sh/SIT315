@@ -21,4 +21,5 @@ Unit: SIT315 - Programming Paradigms
 <h3>Module 3: Distributed Programming</h1>
 <ul>
   <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%203/M3S2P">M3S2P</a></li
+  <li><a href="https://github.com/abhinav52-sh/SIT315/tree/main/Module%203/M3T1P">M3T1P</a></li
 </ul>
