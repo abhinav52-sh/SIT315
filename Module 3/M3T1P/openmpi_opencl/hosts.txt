@@ -1,0 +1,2 @@
+localhost
+192.168.xxx.xxx - Change this line with the worker ip address
